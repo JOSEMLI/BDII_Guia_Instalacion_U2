@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.4)  11 JUN 2018 17:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.4)  11 JUN 2018 17:32
 entering extended mode
 **./BDII_Guia_Isntalacion_U2.tex
 (BDII_Guia_Isntalacion_U2.tex
@@ -528,7 +528,12 @@ Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
 \@enLab=\toks26
 )
-(BDII_Guia_Isntalacion_U2.aux)
+(BDII_Guia_Isntalacion_U2.aux
+LaTeX Info: Redefining \. on input line 6.
+LaTeX Info: Redefining \% on input line 6.
+ (Secciones/Actividad01.aux)
+(Secciones/Actividad02.aux) (Secciones/Actividad03.aux)
+(Secciones/Actividad04.aux) (Secciones/Actividad05.aux))
 \openout1 = `BDII_Guia_Isntalacion_U2.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
@@ -623,7 +628,10 @@ Package pdftex.def Info: ./Imagenes/logo.jpg  used on input line 38.
 [1
 
 {C:/Users/Luis/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Imagenes/l
-ogo.jpg>] (BDII_Guia_Isntalacion_U2.toc)
+ogo.jpg>] (BDII_Guia_Isntalacion_U2.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
 \tf@toc=\write3
 \openout3 = `BDII_Guia_Isntalacion_U2.toc'.
 
@@ -1079,17 +1087,17 @@ LaTeX Info: Redefining \% on input line 6.
 (Secciones/Actividad02.aux) (Secciones/Actividad03.aux)
 (Secciones/Actividad04.aux) (Secciones/Actividad05.aux)) ) 
 Here is how much of TeX's memory you used:
- 4127 strings out of 493305
- 57600 string characters out of 3138878
- 127692 words of memory out of 3000000
- 7539 multiletter control sequences out of 15000+200000
- 4842 words of font info for 18 fonts, out of 3000000 for 9000
+ 4143 strings out of 493305
+ 58265 string characters out of 3138878
+ 129065 words of memory out of 3000000
+ 7545 multiletter control sequences out of 15000+200000
+ 5149 words of font info for 19 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  34i,5n,30p,263b,359s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiK
 TeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/
 fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on BDII_Guia_Isntalacion_U2.pdf (45 pages, 3322710 bytes).
+Output written on BDII_Guia_Isntalacion_U2.pdf (45 pages, 3323028 bytes).
 PDF statistics:
  206 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
